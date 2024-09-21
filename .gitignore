@@ -92,7 +92,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Dataset CSV
-.csv
+*.csv
 
 # Unit test / coverage reports
 htmlcov/
