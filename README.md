@@ -40,5 +40,5 @@ This project uses machine learning algorithms to recommend songs to users based 
    jupyter notebook
 
 ## Autores ✨
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Carlos Gacitua</sub>](https://github.com/Cracklitrox) | [<img src="https://avatars.githubusercontent.com/u/106977595?s=96&v=4" width=115><br><sub>Joaquin Calderon</sub>](https://github.com/Joacalderonm) |  [<img src="https://avatars.githubusercontent.com/u/127873255?v=4" width=115><br><sub>Diego Ruminot</sub>](https://github.com/Diegood07) |
+| [<img src="https://avatars.githubusercontent.com/u/66876225?v=4" width=115><br><sub>Carlos Gacitua</sub>](https://github.com/Cracklitrox) | [<img src="https://avatars.githubusercontent.com/u/106977595?s=96&v=4" width=115><br><sub>Joaquin Calderon</sub>](https://github.com/Joacalderonm) |  [<img src="https://avatars.githubusercontent.com/u/127873255?v=4" width=115><br><sub>Diego Ruminot</sub>](https://github.com/Diegood07) |
 | :---: | :---: | :---: |
