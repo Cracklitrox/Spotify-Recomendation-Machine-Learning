@@ -1,16 +1,44 @@
-Activation instructions:
+# Spotify-Recomendation
 
-1) Download repository in the path you prefer.
+## Description 📜
+This project uses machine learning algorithms to recommend songs to users based on their musical tastes. The goal is to create an efficient and personalized recommendation system using Spotify data.
 
-2) Open a terminal and execute this code 'python -m venv .venv'.
+## Activation instructions: ⚙️
 
-3) Activate the virtual environment with this code '.venv/Scripts/activate'.
+1) Clone this repository:
+   ```bash
+   git clone https://github.com/usuario/proyecto.git
 
-3) Install the project dependencies, for this run this code 'pip install -r requirements.txt'.
+2) Open a terminal and execute this code:
+   ```bash
+   python -m venv .venv
+   
+3) Activate the virtual environment with this code:
 
+   - **Windows**:
+     ```bash
+     .venv/Scripts/activate
+     ```
 
-Open Notebooks:
+   - **MacOS/Linux**:
+     ```bash
+     source .venv/bin/activate
+     ```
 
-1) From an external terminal (cmd) of Visual Studio Code, navigate to the root path of the project 'machine-learning'.
+4) Install the project dependencies, for this run this code:
+   ```bash
+   pip install -r requirements.txt
 
-2) In the project path, execute this code 'jupyter notebook'.
+## Open Notebooks: 📘
+
+1) From an external terminal (cmd) of Visual Studio Code: 
+   ```bash
+   cd machine-learning
+
+3) In the project path, execute this code:
+   ```bash
+   jupyter notebook
+
+## Autores ✨
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Carlos Gacitua</sub>](https://github.com/Cracklitrox) | [<img src="https://avatars.githubusercontent.com/u/106977595?s=96&v=4" width=115><br><sub>Joaquin Calderon</sub>](https://github.com/Joacalderonm) |  [<img src="https://avatars.githubusercontent.com/u/127873255?v=4" width=115><br><sub>Diego Ruminot</sub>](https://github.com/Diegood07) |
+| :---: | :---: | :---: |
