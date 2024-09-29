@@ -7,7 +7,7 @@ This project uses machine learning algorithms to recommend songs to users based 
 
 1) Clone this repository:
    ```bash
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/Cracklitrox/Spotify-Recomendation-Machine-Learning.git
 
 2) Open a terminal and execute this code:
    ```bash
