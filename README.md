@@ -31,11 +31,7 @@ This project uses machine learning algorithms to recommend songs to users based 
 
 ## Open Notebooks: 📘
 
-1) From an external terminal (cmd) of Visual Studio Code: 
-   ```bash
-   cd machine-learning
-
-3) In the project path, execute this code:
+1) In the project path, execute this code:
    ```bash
    jupyter notebook
 
