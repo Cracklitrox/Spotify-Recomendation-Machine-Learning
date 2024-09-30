@@ -7,7 +7,7 @@ This project uses machine learning algorithms to recommend songs to users based 
 
 1) Clone this repository:
    ```bash
-   git clone https://github.com/usuario/proyecto.git
+   git clone https://github.com/Cracklitrox/Spotify-Recomendation-Machine-Learning.git
 
 2) Open a terminal and execute this code:
    ```bash
@@ -31,11 +31,7 @@ This project uses machine learning algorithms to recommend songs to users based 
 
 ## Open Notebooks: 📘
 
-1) From an external terminal (cmd) of Visual Studio Code: 
-   ```bash
-   cd machine-learning
-
-3) In the project path, execute this code:
+1) In the project path, execute this code:
    ```bash
    jupyter notebook
 
