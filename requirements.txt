@@ -10,3 +10,6 @@ scikit-learn~=1.5.1; python_version >= "3.9"
 scikit-learn<=1.4.0,>=1.0; python_version < "3.9"
 seaborn~=0.12.1
 imbalanced-learn~=0.12.4
+statsmodels~=0.14.4
+catboost~=1.2.7
+xgboost~=2.1.2
