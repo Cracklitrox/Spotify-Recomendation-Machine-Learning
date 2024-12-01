@@ -9,6 +9,9 @@ dst-env/
 tests/.cache/v/cache/lastfailed
 .vscode/settings.json
 
+## Ignore Models
+data/06_models/*.pkl
+
 ##
 ## R Section - See https://github.com/github/gitignore/blob/master/R.gitignore
 ##
@@ -426,9 +429,9 @@ typings/
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
 **/*.DesktopClient/GeneratedArtifacts
-**/*.DesktopClient/ModelManifest.xml
+**/*.DesktopClient/dataManifest.xml
 **/*.Server/GeneratedArtifacts
-**/*.Server/ModelManifest.xml
+**/*.Server/06Manifest.xml
 _Pvt_Extensions
 
 # Paket dependency manager
